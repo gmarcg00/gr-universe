@@ -1,7 +1,7 @@
 INSTRUCCIONES
 1-DESCARGAR LOS VOLUMENES CON LOS DATOS DEL PROYECTO:
-	- https://drive.google.com/file/d/1sDwO0jeFVDsN4Tk8ayy8lu2Q6ObM5tcL/view?usp=sharing 
-	- https://drive.google.com/file/d/1BDVp7SsxyU7BNhTv3G4sHX1U2ML1wIN-/view?usp=sharing
+	- https://drive.google.com/file/d/1L5K8zOghEva_4bmKvIRE3xbOk_wjby-V/view?usp=sharing 
+	- https://drive.google.com/file/d/1QTftKL9JlSY2Q4qTE6KjDUCR5KyoFSds/view?usp=sharing
 
 2-DESCOMPRIMIRLOS Y ALOJARLOS EN ci/ 
 EL DIRECTORIO /ci HA DE QUEDAR DE LA SIGUIENTE FORMA
