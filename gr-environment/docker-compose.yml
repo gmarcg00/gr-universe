@@ -3,7 +3,7 @@ version: '3'
 services:
   gr-frontend:
     container_name: gr-frontend
-    image: gr-frontend
+    image: guille02eras/gr-frontend
     ports: 
       - "3000:3000"
     networks:
@@ -11,19 +11,19 @@ services:
       
   gr-db:
     container_name: gr-db
-    image: gr-db
+    image: guille02eras/gr-db
     environment:
       MYSQL_DATABASE: gr-db
       MYSQL_ROOT_PASSWORD: root-1234
     ports:
-      - "8084:3306"
+      - "80:3306"
     networks:
       net:
         ipv4_address: 172.20.0.11
 
   gr-backend:
     container_name: gr-backend
-    image: gr-backend
+    image: guille02eras/gr-backend
     ports: 
       - "8081:8081"
     networks:
